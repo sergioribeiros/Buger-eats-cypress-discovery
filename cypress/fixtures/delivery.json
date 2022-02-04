@@ -1,0 +1,47 @@
+{
+    "signup": {
+        "name": "Sérgio Ribeiro",
+        "cpf": "00000014141",
+        "email": "teste@gmail.com",
+        "whatsapp": "41999999999",
+        "address": {
+            "postal_code": "93010160",
+            "street": "Rua Flores da Cunha",
+            "number": "75",
+            "district": "Centro",
+            "city_state": "São Leopoldo/RS"
+            },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv":{
+        "name": "Sérgio Ribeiro",
+        "cpf": "0000001AA41",
+        "email": "teste@gmail.com",
+        "whatsapp": "41999999999",
+        "address": {
+            "postal_code": "93010160",
+            "street": "Rua Flores da Cunha",
+            "number": "75",
+            "district": "Centro",
+            "city_state": "São Leopoldo/RS"
+            },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "mail_inv":{
+        "name": "Sérgio Ribeiro",
+        "cpf": "00000012412",
+        "email": "teste.gmail.com",
+        "whatsapp": "41999999999",
+        "address": {
+            "postal_code": "93010160",
+            "street": "Rua Flores da Cunha",
+            "number": "75",
+            "district": "Centro",
+            "city_state": "São Leopoldo/RS"
+            },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
